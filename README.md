@@ -14,7 +14,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ---
 
-### 🛍️ [E-commerce Customer Segmentation & Analysis (电商客户分群与价值分析)](https://github.com/ericxq27/Data-Analyst-Portfolio)
+### 🛍️ [E-commerce Customer Segmentation & Analysis (电商客户分群与价值分析)](https://github.com/ericxq27/E-commerce-Customer-Sales-Analysis/tree/main)
 *Analyzed a large dataset of over 500,000 e-commerce transactions to uncover sales trends and user purchasing behaviors. Developed a KMeans clustering model to segment customers into distinct groups, providing data-driven support for targeted marketing campaigns.*
 
 **Tech Stack:** `R`, `KMeans Clustering`, `Tableau`, `Data Visualization`

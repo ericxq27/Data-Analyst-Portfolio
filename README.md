@@ -21,7 +21,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 *An in-depth data analysis of three sales strategies (Email, Call, and a combination of both) for a new product line from Pens and Printers. This project uses Exploratory Data Analysis (EDA) to assess revenue performance, customer reach, and growth potential, culminating in data-driven recommendations to optimize the company's sales approach.*
 
-**Tech Stack:** `Python`, `Pandas`, `Numpy`, `Matplotlib` 	|
+**Tech Stack:** `Python`, `Pandas`, `Numpy`, `Matplotlib` 
+
 
 ## 📄 Certificates
 - [Associate Data Analyst by DataCamp](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Certificates/ASSOCIATE%20DATA%20ANALYST.pdf)

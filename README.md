@@ -7,10 +7,21 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## 🚀 Projects
 
-|                                                                                                                         	|                                                                                                                                                                                                                                                                               Description                                                                                                                                                                                                                                                                               	|
-|-------------------------------------------------------------------------------------------------------------------------	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
-| ![e-commerce](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Images/e-commerce-img.jpeg)                  	| 🛍️ [E-commerce Customer Segmentation & Analysis (电商客户分群与价值分析)](https://github.com/ericxq27/E-commerce-Customer-Sales-Analysis/tree/main)<br><br>*Analyzed a large dataset of over 500,000 e-commerce transactions to uncover sales trends and user purchasing behaviors. Implemented RFM analysis and a KMeans clustering model to segment customers into distinct groups, providing data-driven support for targeted marketing campaigns.*<br><br>**Tech Stack:** `Python`, `KMeans Clustering`, `Tableau`, `Data Visualization`                                                	|
-| ![PensandPrinters](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Images/Pens%20and%20Printers%20img.png) 	| 🖊️[Pens and Printers Sales Strategy Analysis (销售策略分析)](https://github.com/ericxq27/Pens-and-Printers-New-Product-Sales-Strategy-Analysis)<br><br>*An in-depth data analysis of three sales strategies (Email, Call, and a combination of both) for a new product line from Pens and Printers. This project uses Exploratory Data Analysis (EDA) to assess revenue performance, customer reach, and growth potential, culminating in data-driven recommendations to optimize the company's sales approach.*<br><br>**Tech Stack:** `Python`, `Pandas`, `Numpy`, `Matplotlib` 	|
+🛍️ [E-commerce Customer Segmentation & Analysis (电商客户分群与价值分析)](https://github.com/ericxq27/E-commerce-Customer-Sales-Analysis/tree/main)
+
+*Analyzed a large dataset of over 500,000 e-commerce transactions to uncover sales trends and user purchasing behaviors. Implemented RFM analysis and a KMeans clustering model to segment customers into distinct groups, providing data-driven support for targeted marketing campaigns.*
+
+**Tech Stack:** `Python`, `KMeans Clustering`, `Tableau`, `Data Visualization`  
+
+![dashboard](https://github.com/ericxq27/E-commerce-Customer-Sales-Analysis/blob/main/Images/Dashboard-page-1.jpeg)
+
+---
+
+🖊️[Pens and Printers Sales Strategy Analysis (销售策略分析)](https://github.com/ericxq27/Pens-and-Printers-New-Product-Sales-Strategy-Analysis)
+
+*An in-depth data analysis of three sales strategies (Email, Call, and a combination of both) for a new product line from Pens and Printers. This project uses Exploratory Data Analysis (EDA) to assess revenue performance, customer reach, and growth potential, culminating in data-driven recommendations to optimize the company's sales approach.*
+
+**Tech Stack:** `Python`, `Pandas`, `Numpy`, `Matplotlib` 	|
 
 ## 📄 Certificates
 - [Associate Data Analyst by DataCamp](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Certificates/ASSOCIATE%20DATA%20ANALYST.pdf)

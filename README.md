@@ -26,7 +26,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## 📄 Certificates
 - [Associate Data Analyst by DataCamp](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Certificates/ASSOCIATE%20DATA%20ANALYST.pdf)
-- [SQL Associate by DataCamp](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Certificates/ASSOCIATE%20DATA%20ANALYST.pdf)
+- [SQL Associate by DataCamp](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Certificates/SQL%20ASSOCIATE.pdf)
 - [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Certificates/CertificateOfCompletion_Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
 - [SQL Essential Training by LinkedIn](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Certificates/CertificateOfCompletion_SQL%20Essential%20Training.pdf)
 - [R for Data Science: Analysis and Visualization by LinkedIn](https://github.com/ericxq27/Data-Analyst-Portfolio/blob/main/Certificates/CertificateOfCompletion_R%20for%20Data%20Science%20Analysis%20and%20Visualization.pdf)

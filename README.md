@@ -1,4 +1,9 @@
 # Data Analyst Portfolio - Eric Qin (秦学晨）
+<div align="center">
+
+English | [中文](./README_zh.md)
+
+</div>
 Hi there, I'm Xuechen (Eric) Qin 👋 I'm currently pursuing my MSc in Business Analytics. 
 
 *A passionate and detail-oriented data analyst with a strong foundation in statistical analysis, machine learning, and business intelligence.* 

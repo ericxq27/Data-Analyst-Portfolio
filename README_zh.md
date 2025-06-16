@@ -1,4 +1,11 @@
+<div align="center">
+
+中文 | [English](./README.md)
+
+</div>
+
 # 数据分析作品集 - 秦学晨（Eric Qin）
+
 您好，我是秦学晨 (Eric) 👋，一名商业分析硕士 (MSc in Business Analytics) 在读生。
 
 本作品集汇总了我在学术、自学和个人兴趣驱动下完成的数据科学与数据分析项目，同时包含了我的个人技能、成就和相关证书。此页面会定期更新。

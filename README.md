@@ -3,6 +3,7 @@
 English | [中文](./README_zh.md)
 
 </div>
+
 # Data Analyst Portfolio - Eric Qin (秦学晨）
 
 Hi there, I'm Xuechen (Eric) Qin 👋 I'm currently pursuing my MSc in Business Analytics. 
@@ -13,7 +14,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## 🚀 Projects
 
-🛍️ [E-commerce Customer Segmentation & Analysis (电商客户分群与价值分析)](https://github.com/ericxq27/E-commerce-Customer-Sales-Analysis/tree/main)
+🛍️ [E-commerce Customer Segmentation & Analysis](https://github.com/ericxq27/E-commerce-Customer-Sales-Analysis/tree/main)
 
 *Analyzed a large dataset of over 500,000 e-commerce transactions to uncover sales trends and user purchasing behaviors. Implemented RFM analysis and a KMeans clustering model to segment customers into distinct groups, providing data-driven support for targeted marketing campaigns.*
 
@@ -23,7 +24,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ---
 
-🖊️[Pens and Printers Sales Strategy Analysis (销售策略分析)](https://github.com/ericxq27/Pens-and-Printers-New-Product-Sales-Strategy-Analysis)
+🖊️[Pens and Printers Sales Strategy Analysis](https://github.com/ericxq27/Pens-and-Printers-New-Product-Sales-Strategy-Analysis)
 
 *An in-depth data analysis of three sales strategies (Email, Call, and a combination of both) for a new product line from Pens and Printers. This project uses Exploratory Data Analysis (EDA) to assess revenue performance, customer reach, and growth potential, culminating in data-driven recommendations to optimize the company's sales approach.*
 
